@@ -1,8 +1,9 @@
 <script>
-
+    let title = "Charity";
+    title = "Donation";
 </script>
 
-<h1>Charity</h1>
+<h1>{title}</h1>
 
 <style>
 h1  {
@@ -10,5 +11,4 @@ h1  {
     color: #e2071c; 
 }
 </style>
-
 
